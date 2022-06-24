@@ -10,7 +10,8 @@ Use the app at https://medricet.github.io/ilo-pi-ante-sitelen.
 or
 
  1. Clone the repository.
- 2. `npm build` or `npm start`.
+ 2. `npm install`.
+ 3. `npm build` or `npm start`.
 
 ## Dependencies
 
