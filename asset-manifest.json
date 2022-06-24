@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ilo-pi-ante-sitelen/static/css/main.8e0d996e.css",
+    "main.js": "/ilo-pi-ante-sitelen/static/js/main.9113109a.js",
+    "static/media/linja-pona-4.9.otf": "/ilo-pi-ante-sitelen/static/media/linja-pona-4.9.2a88793f9d443ea4edaa.otf",
+    "index.html": "/ilo-pi-ante-sitelen/index.html",
+    "main.8e0d996e.css.map": "/ilo-pi-ante-sitelen/static/css/main.8e0d996e.css.map",
+    "main.9113109a.js.map": "/ilo-pi-ante-sitelen/static/js/main.9113109a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e0d996e.css",
+    "static/js/main.9113109a.js"
+  ]
+}
